@@ -84,3 +84,7 @@
 - Place: India
 - Bio: Software Engineer | Android Developer
 - GitHub: [Akshay Kumar Maurya](https://github.com/Akshay-21)
+# Name: Jyoti Prakash
+- Place: India
+- Bio: Student, Competitive Programmer
+- GitHub: [Jyoti Prakash](https://github.com/jyoti-prakash-25)
